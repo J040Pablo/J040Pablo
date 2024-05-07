@@ -14,7 +14,7 @@ Sou um entusiasta de programação e tecnologia, e estou sempre aprendendo coisa
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="right" alt="gif" height="30" width="40"src="https://i.pinimg.com/originals/d2/59/f7/d259f76b82df74676e7eba4091f32a37.gif">
+  <img align="right" alt="gif" src="https://i.pinimg.com/originals/94/14/59/941459a4d50222257145dcca56300137.gif">
 
 
   
