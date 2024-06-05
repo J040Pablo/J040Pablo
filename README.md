@@ -1,6 +1,10 @@
 ## Oi, eu sou o João Pablo Delgado Gomes!
 
-Sou apaixonado por programação e tecnologia, sempre buscando aprender e explorar novas ferramentas e linguagens!
+🚀 Apaixonado por tecnologia e desenvolvimento de software.
+💻 Full-stack developer com experiência em várias tecnologias, desde o front-end com React até o back-end com Node.js.
+📚 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+🌱 Atualmente explorando o mundo do desenvolvimento de aplicativos móveis com Flutter.
+🔭 Em busca de desafios interessantes e projetos colaborativos para contribuir.
 
 <div> 
   <a href="https://www.instagram.com/j.pablookk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
