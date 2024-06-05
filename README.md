@@ -1,6 +1,6 @@
 ## Oi, eu sou o João Pablo Delgado Gomes!
 
-Sou um entusiasta de programação e tecnologia, e estou sempre aprendendo coisas novas!
+Sou apaixonado por programação e tecnologia, sempre buscando aprender e explorar novas ferramentas e linguagens!
 
 <div> 
   <a href="https://www.instagram.com/j.pablookk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
