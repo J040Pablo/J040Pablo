@@ -44,14 +44,10 @@ Desenvolvedor focado em construir soluções robustas no ecossistema **Java** e 
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/J040Pablo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J040Pablo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/J040Pablo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J040Pablo&layout=compact&theme=tokyonight&hide=html,css" />
-  </a>
-</p>
+<div align="center"> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=J040Pablo&show_icons=true&count_private=true&hide_border=true&title_color=004FFF&icon_color=004FFF&text_color=c9d1d9&bg_color=0d1117" alt="João Pablo Delgado Gomes GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J040Pablo&layout=compact&hide_border=true&title_color=004FFF&text_color=c9d1d9&bg_color=0d1117" /> 
+</div>
 
 ---
 
