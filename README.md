@@ -72,7 +72,7 @@
 
 ---
 
-### Projetos
+### Projects
 
 **🛒 [Casa & Sabor](https://github.com/J040Pablo/casa-e-sabor)** *Gestão de delivery com fluxo financeiro real via Mercado Pago.*
 
@@ -80,7 +80,7 @@
 
 ---
 
-### Estatísticas
+### Statistics
 
 <div align="center"> 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=J040Pablo&show_icons=true&theme=dark&hide_border=true&title_color=004FFF&icon_color=004FFF" /> 
