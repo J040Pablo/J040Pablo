@@ -72,7 +72,7 @@
 
 ---
 
-### Projetos de Impacto
+### Projetos
 
 **🛒 [Casa & Sabor](https://github.com/J040Pablo/casa-e-sabor)** *Gestão de delivery com fluxo financeiro real via Mercado Pago.*
 
