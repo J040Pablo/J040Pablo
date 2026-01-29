@@ -16,15 +16,15 @@
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 Desenvolvedor focado em construir soluções robustas no ecossistema **Java** e **JavaScript**. Minha paixão por tecnologia vai além do código: sou entusiasta de sistemas open-source e utilizo o **Arch Linux** como base para um workflow produtivo e altamente customizado.
 
 ---
 
-### 🛠️ Toolbox (Stack Tecnológica)
+### Toolbox
 
-#### 💻 Backend
+#### Backend
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&style=flat-square&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
@@ -33,7 +33,7 @@ Desenvolvedor focado em construir soluções robustas no ecossistema **Java** e 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square&logoColor=fff" />
 </p>
 
-#### 📱 Mobile & Frontend
+#### Mobile & Frontend
 <p>
   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
@@ -42,14 +42,14 @@ Desenvolvedor focado em construir soluções robustas no ecossistema **Java** e 
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
-#### 🗄️ Databases
+#### Databases
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square&logoColor=fff" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square&logoColor=fff" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&style=flat-square&logoColor=white" />
 </p>
 
-#### 🐧 Infra, Tools & DevOps
+#### Infra, Tools & DevOps
 <p>
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&style=flat-square&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=flat-square&logoColor=black" />
