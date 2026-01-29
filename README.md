@@ -58,10 +58,10 @@ Desenvolvedor focado em construir soluções robustas no ecossistema **Java** e 
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=flat-square&logoColor=fff" />
 </p>
 
-#### 🎮 Game Development
+#### Game Development
 <p>
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?logo=godotengine&style=flat-square&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
-  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&style=flat-square&logoColor=white" />
 </p>
 
 ---
