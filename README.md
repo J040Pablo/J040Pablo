@@ -16,12 +16,6 @@
 
 ---
 
-### Sobre Mim
-
-Desenvolvedor focado em construir soluções robustas no ecossistema **Java** e **JavaScript**. Minha paixão por tecnologia vai além do código: sou entusiasta de sistemas open-source e utilizo o **Arch Linux** como base para um workflow produtivo e altamente customizado.
-
----
-
 ### Toolbox
 
 #### Backend
