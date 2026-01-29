@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joão-pablo-delgado-gomes-0b8882304" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
-  <a href="mailto:jp684160@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=flat-square&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.instagram.com/j.pablookk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=flat-square&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/joão-pablo-delgado-gomes-0b8882304" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" /></a>
+  <a href="mailto:jp684160@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=flat-square&logoColor=white" /></a>
+  <a href="https://www.instagram.com/j.pablookk/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=flat-square&logoColor=white" /></a>
 </p>
 
 ---
@@ -20,49 +20,57 @@
 
 Desenvolvedor focado em construir soluções robustas no ecossistema **Java** e **JavaScript**. Minha paixão por tecnologia vai além do código: sou entusiasta de sistemas open-source e utilizo o **Arch Linux** como base para um workflow produtivo e altamente customizado.
 
-* **Foco Atual:** Arquiteturas escaláveis e integração de Inteligência Artificial.
-* **Diferencial:** Experiência com gateways de pagamento (Mercado Pago) e LLMs (Gemini AI).
-* **Ambiente:** Power user de Linux, focado em automação e performance.
+---
+
+### 🛠️ Toolbox (Stack Tecnológica)
+
+#### 💻 Backend
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&style=flat-square&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square&logoColor=fff" />
+</p>
+
+#### 📱 Mobile & Frontend
+<p>
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square&logoColor=fff" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square&logoColor=fff" />
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&style=flat-square&logoColor=white" />
+</p>
+
+#### 🐧 Infra, Tools & DevOps
+<p>
+  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&style=flat-square&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=flat-square&logoColor=black" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&style=flat-square&logoColor=fff" />
+</p>
+
+#### 🎮 Game Development
+<p>
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
+  <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&style=flat-square&logoColor=white" />
+</p>
 
 ---
 
-### 🛠️ Toolbox (Tech Stack)
+### 🌟 Projetos de Impacto
 
-#### 🌐 Frontend & Mobile
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=000" alt="JS" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-  <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</p>
+**🛒 [Casa & Sabor](https://github.com/J040Pablo/casa-e-sabor)** *Gestão de delivery com fluxo financeiro real via Mercado Pago.*
 
-#### ⚙️ Backend & DB
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&style=flat-square&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square&logoColor=fff" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square&logoColor=fff" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square&logoColor=fff" alt="MongoDB" />
-</p>
-
-#### 🐧 Infra & Tools
-<p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&style=flat-square&logoColor=white" alt="Arch" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-</p>
-
----
-
-### 🌟 Projetos em Destaque
-
-**🛒 [Casa & Sabor](https://github.com/J040Pablo/casa-e-sabor)** *Gestão de restaurantes e delivery com fluxo financeiro real.* - **Stack:** React, Node.js, MongoDB.  
-- **Destaque:** Integração de pagamentos via **Mercado Pago (PIX/Card)** e JWT.
-
-**🤖 [Ecommerce Chat Mobile](https://github.com/J040Pablo/Ecommerce-Chat-Mobile)** *Loja de jogos com UX guiada por Inteligência Artificial.* - **Stack:** React Native (Expo), TypeScript, Gemini API.  
-- **Destaque:** Chatbot inteligente para auxílio na jornada de compra.
+**🤖 [Loja de Jogos Mobile](https://github.com/J040Pablo/Ecommerce-Chat-Mobile)** *E-commerce mobile com IA (Gemini API) integrada para suporte ao usuário.*
 
 ---
 
