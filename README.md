@@ -1,4 +1,3 @@
-
 <h2 align="center">João Pablo Delgado Gomes</h2>
 
 <p align="center">
